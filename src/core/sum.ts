@@ -1,0 +1,4 @@
+//* this function calculates the sum of two numbers
+export const sum = (num1: number, num2: number): number => {
+	return num1 + num2
+}
