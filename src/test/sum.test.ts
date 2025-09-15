@@ -10,7 +10,7 @@ describe('Suma de dos numeros', () => {
 
 		expect(result).toBe(numberExpected);
 	});
-})
+});
 
 //* Un ejemplo de test mas simplicada
 // test('sum of 1 and 2 should be 3', () => {
